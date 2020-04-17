@@ -8,13 +8,13 @@ What you need:
 - [x] Procfile, 
 - [x] Webapp-runner
 
-For a procfile, you can the in-folder file.
+For a procfile, you can copy the in-folder file.
 
 For the webapp runner, it's a maven pluguin; add it in the POM file
 
 
 
- You can use my API using this maven dependency : 
+
  
   ```
   
