@@ -21,10 +21,10 @@ Heroku version <= 6
    ``
    
  
- To deploy a war file, type
+ Imagine that you have a remote project called 'project', to deploy a war file, type
  
    ``
-     heroku war:deploy war_file --app app_name
+     heroku war:deploy war_file --app project
      ``
      
 Heroku version >= 7
@@ -35,6 +35,7 @@ Imagine that you have a remote project called 'project'. Note that you should pr
  
  
   ``
+  
       git init
       
       heroku git:remote -a project
