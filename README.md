@@ -36,12 +36,15 @@ Imagine that you have a remote project called 'project'. Note that you should pr
  
   ``
       git init
+      
       heroku git:remote -a project
-
+      
       git add .
+      
       git commit -am "initial commit"
+      
       git push heroku master
-
+      
       heroku git:remote -a project
      ``
 
