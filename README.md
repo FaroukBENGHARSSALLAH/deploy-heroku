@@ -29,7 +29,7 @@ Heroku version <= 6
      
 Heroku version >= 7
 
-Imagine that you have a remote project called 'project'. Note that you should prepare two files according to the project nature; Spring MVC, Spring Boot, Python, NodeJS, etc. In this example, you find a file related to Spring MVC template.
+Imagine that you have a remote project called 'project'. Note that you should prepare two files according to the project nature; Spring MVC, Spring Boot, Python, NodeJS, etc. In this example, you find a file related to Spring MVC, Boot templates.
 
  To deploy the project in the heroku cloud, type
  
