@@ -18,7 +18,7 @@ heroku create
 
   ```
  
-git app:rename -app *** name
+heroku app:rename -app *** name
 ```
 
   Add a Dockerfile and commit your project. Thus, Heroku will build the docker image in the remote container.
