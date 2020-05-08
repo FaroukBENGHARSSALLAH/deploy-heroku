@@ -8,8 +8,8 @@ Unlike Spring MVC, in a spring boot you don't need a specific configuration.
 Type the following commands : 
  
   ```
-  
-git create
+heroku login -i  
+heroku create
 ```
 
   Then you will get the new Heroku app name, so rename it.
@@ -17,7 +17,7 @@ git create
 
   ```
  
-git app:rename -app *** name
+heroku app:rename -app *** name
 ```
 
   Commit your project and add the heroku remote project, and push it.Thus, Heroku will build it.
