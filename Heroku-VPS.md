@@ -1,7 +1,11 @@
 Private Virtual Server VPS
 ==========================
 
-A set of steps to deploy a private virtual server in the heroku cloud v7.
+A set of steps to deploy a private virtual server in the heroku cloud v7. For the copyrights declaration, you can check 0x77dev's Github
+and Pak Home's youtube video. They demonstrate the following steps.
+
+- [0x77dev](https://github.com/0x77dev/docker-novnc/)
+- [Pak Home](https://www.youtube.com/watch?v=CNJX54iptkY/)
 
 
 Type the following commands : 
